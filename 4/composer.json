@@ -1,0 +1,8 @@
+{
+    name vendordemo-autoload-composer,
+    type project,
+    license MIT,
+    require {
+        googleapiclient ^2.13
+    }
+}
